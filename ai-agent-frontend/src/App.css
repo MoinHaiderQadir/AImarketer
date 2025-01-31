@@ -1,0 +1,12 @@
+.swiper-button-next,
+.swiper-button-prev {
+  color: #1d4ed8; /* Tailwind's 'blue-600' */
+}
+
+.swiper-pagination-bullet {
+  background-color: #d1d5db; /* Tailwind's 'gray-300' */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #1d4ed8; /* Tailwind's 'blue-600' */
+}
